@@ -50,6 +50,15 @@
             <mxPoint x="230" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="SwIRKKmqlH7PDzCA9C31-11" value="北京" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="190" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SwIRKKmqlH7PDzCA9C31-12" value="上海" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="190" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SwIRKKmqlH7PDzCA9C31-13" value="成都" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="190" width="60" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
